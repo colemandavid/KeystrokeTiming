@@ -17,5 +17,5 @@
 #include <memory.h>
 #include <tchar.h>
 
-
 // reference additional headers your program requires here
+#include <strsafe.h>
