@@ -59,7 +59,7 @@ int		idxTicks = 0;
 int		numDurations = 0;
 DWORD	dwDurations[200] = { 0 };
 int		Notes[200] = { 0 };		// Array holding the indices into ImplNoteList of the notes tapped out
-int		iTempoBPM = 105;	// beats per minute (quarter notes)
+int		iTempoBPM = 107;	// beats per minute (quarter notes)
 int		iTempoMSPB;		// milliseconds per beat (quarter note)
 
 bool	bDone = false;
